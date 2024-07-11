@@ -11,6 +11,8 @@
 		F30FCCA12C3ECB1600FE0FDC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F30FCCA02C3ECB1600FE0FDC /* ContentView.swift */; };
 		F30FCCA32C3ECB1800FE0FDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F30FCCA22C3ECB1800FE0FDC /* Assets.xcassets */; };
 		F30FCCA62C3ECB1800FE0FDC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F30FCCA52C3ECB1800FE0FDC /* Preview Assets.xcassets */; };
+		F30FCCAF2C3ECCB400FE0FDC /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F30FCCAE2C3ECCB400FE0FDC /* Coordinator.swift */; };
+		F30FCCB12C3ECE4E00FE0FDC /* robot_walk_idle.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F30FCCB02C3ECE4E00FE0FDC /* robot_walk_idle.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F30FCCA02C3ECB1600FE0FDC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F30FCCA22C3ECB1800FE0FDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F30FCCA52C3ECB1800FE0FDC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F30FCCAE2C3ECCB400FE0FDC /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		F30FCCB02C3ECE4E00FE0FDC /* robot_walk_idle.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = robot_walk_idle.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				F30FCCA02C3ECB1600FE0FDC /* ContentView.swift */,
 				F30FCCA22C3ECB1800FE0FDC /* Assets.xcassets */,
 				F30FCCA42C3ECB1800FE0FDC /* Preview Content */,
+				F30FCCAE2C3ECCB400FE0FDC /* Coordinator.swift */,
+				F30FCCB02C3ECE4E00FE0FDC /* robot_walk_idle.usdz */,
 			);
 			path = OcculutionPractice;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 			files = (
 				F30FCCA62C3ECB1800FE0FDC /* Preview Assets.xcassets in Resources */,
 				F30FCCA32C3ECB1800FE0FDC /* Assets.xcassets in Resources */,
+				F30FCCB12C3ECE4E00FE0FDC /* robot_walk_idle.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +146,7 @@
 			files = (
 				F30FCCA12C3ECB1600FE0FDC /* ContentView.swift in Sources */,
 				F30FCC9F2C3ECB1600FE0FDC /* AppDelegate.swift in Sources */,
+				F30FCCAF2C3ECCB400FE0FDC /* Coordinator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
